@@ -1,5 +1,5 @@
 # Hello, I'm Bevin
-<a href="www.linkedin.com/in/bevinchat"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/bevinchat/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a final-year IT student with a profound interest in Cybersecurity and a dedication to solving complex problems.
 
@@ -17,7 +17,6 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Incident Response Planning and Execution      | Cyber Attack Analysis & IR Assignment|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -31,14 +30,18 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ### Cloud
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20S3-569A31?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20CloudWatch-8C4FFF?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20EC2-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Entra%20ID-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 
 ### IAM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SailPoint%20IIQ-00A3E0?&style=for-the-badge&logo=sailpoint&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CyberArk-00B388?&style=for-the-badge&logo=cyberark&logoColor=white" />
 </div>
 
 ## Certifications
