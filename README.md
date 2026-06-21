@@ -14,8 +14,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">SOC Detection Lab Lab</a>|
 | Least-Priviledge Access      | AWS IAM & S3 Bucket Access Control Simulation|
 | asd      | AWS IAM & S3 Bucket Access Control Simulation|
-| Dynamic Malware Analysis        | Cyber Attack Analysis & IR Assignment|
-| Incident Response Planning and Execution      | Cyber Attack Analysis & IR Assignment|
+| Dynamic Cyber Attack Analysis Process         | Dynamic Malware Analysis & IR Assignment|
+| Network Traffic Monitoring and Attack Detection      | Dynamic Malware Analysis & IR Assignment|
 
 ## Tools
 
@@ -44,6 +44,14 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
     <img src="https://img.shields.io/badge/-CyberArk-00B388?&style=for-the-badge&logo=cyberark&logoColor=white" />
 </div>
 
+### Digital Forensics
+<div>
+    <img src="https://img.shields.io/badge/-Process_Hacker-CC0000?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-ProcMon-006400?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Regshot-8B4513?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=virustotal&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <a href="https://github.com/B3VIN/B3VIN/blob/main/Certifications/deloitteForageCert.pdf"> 
@@ -54,5 +62,5 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ## Projects
 - SOC Detection Lab (In-progress)
-- Cyber Attack Analysis & IR Assignment
+- Dynamic Malware Analysis & IR Assignment
 - AWS IAM & S3 Bucket Access Control Simulation
