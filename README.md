@@ -12,7 +12,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">SOC Detection Lab Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">SOC Detection Lab</a>|
+| Least-Priviledge Access      | AWS IAM & S3 Bucket Access Control Simulation|
+| asd      | AWS IAM & S3 Bucket Access Control Simulation|
 | Dynamic Malware Analysis        | Cyber Attack Analysis & IR Assignment|
 | Incident Response Planning and Execution      | Cyber Attack Analysis & IR Assignment|
 
@@ -31,7 +32,6 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-AWS%20S3-569A31?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS%20CloudWatch-8C4FFF?&style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS%20EC2-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Entra%20ID-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
@@ -55,4 +55,4 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ## Projects
 - SOC Detection Lab (In-progress)
 - Cyber Attack Analysis & IR Assignment
-- AWS IAM & S3 Bucket Access Control
+- AWS IAM & S3 Bucket Access Control Simulation
