@@ -12,8 +12,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">SOC Detection Lab Lab</a>|
-| Least-Priviledge Access      | AWS IAM & S3 Bucket Access Control Simulation|
-| asd      | AWS IAM & S3 Bucket Access Control Simulation|
+| Least-Priviledge Access Provisioning      | AWS IAM & S3 Bucket Access Control Simulation|
 | Dynamic Cyber Attack Analysis Process         | Dynamic Malware Analysis & IR Assignment|
 | Network Traffic Monitoring and Attack Detection      | Dynamic Malware Analysis & IR Assignment|
 
