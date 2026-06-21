@@ -46,7 +46,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ## Certifications
 <div>
-<a href="https://github.com/B3VIN/B3VIN/blob/main/certifications/deloitteForageCert.pdf"> 
+<a href="https://github.com/B3VIN/B3VIN/blob/main/Certifications/deloitteForageCert.pdf"> 
   <img src="https://img.shields.io/badge/-Deloitte%20Cyber%20Job%20Simulation-86BC25?&style=for-the-badge&logo=deloitte&logoColor=white" /> 
 </a>
 <!-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"  /> -->
