@@ -12,7 +12,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation & Log Analysis          | SOC Detection Lab Lab</a>|
-| Least-Priviledge Access Provisioning      | AWS IAM & S3 Bucket Access Control Simulation|
+| Least-Priviledge Access Provisioning      | <a href="https://github.com/B3VIN/AWS-IAM-S3-Bucket-Access-Control-Simulation"> AWS IAM & S3 Bucket Access Control Simulation|
 | Dynamic Cyber Attack Analysis Process         | <a href="https://github.com/B3VIN/Dynamic-Malware-Analysis-IR-Assignment"> Dynamic Malware Analysis & IR Assignment|
 | Network Traffic Monitoring & Attack Detection      | <a href="https://github.com/B3VIN/Dynamic-Malware-Analysis-IR-Assignment"> Dynamic Malware Analysis & IR Assignment|
 
@@ -62,4 +62,4 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ## Projects
 - SOC Detection Lab (In-progress)
 - <a href="https://github.com/B3VIN/Dynamic-Malware-Analysis-IR-Assignment">Dynamic Malware Analysis & IR Assignment
-- AWS IAM & S3 Bucket Access Control Simulation
+- <a href="https://github.com/B3VIN/AWS-IAM-S3-Bucket-Access-Control-Simulation"> AWS IAM & S3 Bucket Access Control Simulation
